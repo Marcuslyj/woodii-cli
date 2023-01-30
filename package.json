@@ -1,0 +1,26 @@
+{
+  "name": "woodii-cli",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./bin/cli.js",
+  "bin": {
+    "woodii": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.6",
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2"
+  }
+}
