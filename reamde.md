@@ -18,7 +18,7 @@ cross-spawn支持跨平台调用系统上的命令
   -选择模版
   -选择tag
 ✅下载远程模板（使用 download-git-repo）
-⬜发布项目
+✅发布项目
 
 
 ✅❎⬜
